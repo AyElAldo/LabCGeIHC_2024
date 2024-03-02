@@ -1,0 +1,22 @@
+﻿  E03-318171809.cpp
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica03\Practica03\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "E03-318171809.cpp")
+  
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica03\Practica03\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "E03-318171809.cpp")
+  
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica03\Practica03\E03-318171809.cpp(27,36): warning C4305: 'inicializando': truncamiento de 'double' a 'float'
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica03\Practica03\E03-318171809.cpp(194,16): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica03\Practica03\E03-318171809.cpp(236,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica03\Practica03\E03-318171809.cpp(236,32): warning C4244:         with
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica03\Practica03\E03-318171809.cpp(236,32): warning C4244:         [
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica03\Practica03\E03-318171809.cpp(236,32): warning C4244:             _Ty=GLfloat
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica03\Practica03\E03-318171809.cpp(236,32): warning C4244:         ]
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica03\Practica03\E03-318171809.cpp(238,32): warning C4244: 'argumento': conversión de 'double' a '_Ty'; posible pérdida de datos
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica03\Practica03\E03-318171809.cpp(238,32): warning C4244:         with
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica03\Practica03\E03-318171809.cpp(238,32): warning C4244:         [
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica03\Practica03\E03-318171809.cpp(238,32): warning C4244:             _Ty=GLfloat
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica03\Practica03\E03-318171809.cpp(238,32): warning C4244:         ]
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica03\Practica03\E03-318171809.cpp(334,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica03\Practica03\E03-318171809.cpp(336,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Practica03.vcxproj -> C:\Users\26ald\Documents\Grafica\Laboratorio\Practica03\Debug\Practica03.exe
