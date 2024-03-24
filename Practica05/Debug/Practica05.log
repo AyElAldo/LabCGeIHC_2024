@@ -1,0 +1,10 @@
+﻿  P05-318171809.cpp
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica05\Practica05\Window.h(12,36): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P05-318171809.cpp")
+  
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica05\Practica05\Window.h(13,37): warning C4244: 'return': conversión de 'GLint' a 'GLfloat'; posible pérdida de datos
+  (compilando archivo de origen "P05-318171809.cpp")
+  
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica05\Practica05\P05-318171809.cpp(172,15): warning C4244: 'inicializando': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+C:\Users\26ald\Documents\Grafica\Laboratorio\Practica05\Practica05\P05-318171809.cpp(174,33): warning C4244: '+=': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+  Practica05.vcxproj -> C:\Users\26ald\Documents\Grafica\Laboratorio\Practica05\Debug\Practica05.exe
